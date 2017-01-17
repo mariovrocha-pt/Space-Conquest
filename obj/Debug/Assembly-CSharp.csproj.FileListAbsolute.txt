@@ -1,0 +1,69 @@
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mário Rocha\Desktop\Space Conquest\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\obj\Debug\Assembly-CSharp.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Mário Rocha\Desktop\Space Conquest [Remastered]\Space Conquest\obj\Debug\Assembly-CSharp.pdb
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEditor.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Mono.Cecil.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.DataContract.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.xml
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEditor.xml
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\obj\Debug\Assembly-CSharp.dll
+D:\Space Conquest [Remastered]\Space Conquest [Remastered]\Space Conquest\obj\Debug\Assembly-CSharp.pdb
